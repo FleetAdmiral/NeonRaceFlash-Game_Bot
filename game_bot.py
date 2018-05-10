@@ -15,6 +15,7 @@ while True:
     #info - misc info: performance, latency, etc to see and tweak performace of bot
 
 
+    print "=================="
     print "observation is "
     print observation_n
     print "reward is "
@@ -23,5 +24,7 @@ while True:
     print done_n
     print "info is "
     print info
+    print "=================="
+    print "\n\n"
 
 env.render()
