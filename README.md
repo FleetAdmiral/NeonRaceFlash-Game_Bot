@@ -1,4 +1,7 @@
 # Neon Race Flash - Game Bot
-100 Days Of AI: Day1.
+## 100 Days Of AI: Day1.
   
-A game bot built on OpenAI Universe that uses re-inforcement learning to learn how to play the arcade game Neon Race Flash.
+A bot built to learn and play the flash game Neon Race Flash using OpenAI's [Gym](gym.openai.com) toolkit and [Universe](https://github.com/openai/universe) test-train platform.
+  
+  
+
